@@ -1,0 +1,5 @@
+print('Hello I am the Fots virtual assistant')
+q = input('How can I help you?')
+print('I will try to help with', q)
+also = input('Is there anything else you need because Im going to take a break soon?')
+print('Im sorry the Fots Virtual Assistant does not know how to do that. TRY A RISPE FOT AND MAYBE YOULL FEE BETTER.')
