@@ -1,0 +1,1 @@
+print('Welcome to FotsApp. Fots are food + shots, so basically dried, crushed food that you drink out of shot glasses. If you want to try out some Fots, visit the webite. The new one is at: https://lb123658.github.io/Fots/, and the old one is at: https://sites.google.com/view/fots-.')
